@@ -5,8 +5,6 @@
 
 A modern social connection platform built with React, TypeScript, and Supabase.
 
-**Created by [Taki Monroe](https://github.com/Taki-Monroe)**
-
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -83,6 +81,3 @@ npm run test
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-© 2024 Taki Monroe. All rights reserved.
